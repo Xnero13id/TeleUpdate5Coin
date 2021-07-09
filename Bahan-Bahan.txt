@@ -1,0 +1,19 @@
+♻🚩 5EarnClickbot ⚠
+⚠ Langkah langkah yang perlu di install :
+pkg install upgrade && pkg install update  
+pkg install python  
+Pkg install git 
+pip install --upgrade pip
+pip install telethon 
+pip install bs4  
+pip install colorama 
+Pip install requests 
+git clone https://github.com/Xnero13id/TeleUpdate5Coin
+cd 5EarnClickbot
+Python Btc.py +628 (nomor telegram)
+Chanell Clickbot : 
+- (Ltc) : https://t.me/Litecoin_click_bot?start=11vKT
+- (Doge) : https://t.me/Dogecoin_click_bot?start=0VM2v
+- (Bch) : https://t.me/BCH_clickbot?start=JZh1b
+- (Btc) : https://t.me/BitcoinClick_bot?start=CFZ7t
+- (Zech) : https://t.me/Zcash_click_bot?start=ghDaB
